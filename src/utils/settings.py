@@ -12,6 +12,8 @@ SETTINGS_FILE = Path.home() / ".ytdlp_gui_settings.json"
 class AppSettings:
     theme: str = "light"
     output_dir: str | None = None
+    use_aria2c: bool = False
+    concurrent_fragments: int = 8
 
     @classmethod
     def load(cls) -> "AppSettings":
@@ -26,7 +28,15 @@ class AppSettings:
     def save(self) -> None:
         try:
             SETTINGS_FILE.write_text(
-                json.dumps({"theme": self.theme, "output_dir": self.output_dir}, indent=2),
+                json.dumps(
+                    {
+                        "theme": self.theme,
+                        "output_dir": self.output_dir,
+                        "use_aria2c": self.use_aria2c,
+                        "concurrent_fragments": self.concurrent_fragments,
+                    },
+                    indent=2,
+                ),
                 encoding="utf-8",
             )
         except Exception:
