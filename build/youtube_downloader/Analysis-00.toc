@@ -5197,11 +5197,11 @@
   ('stringprep',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
-   'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
    'PYMODULE'),
   ('utils.ffmpeg',
    'E:\\Github\\Youtube Downloader\\src\\utils\\ffmpeg.py',
@@ -5233,93 +5233,93 @@
   ('python313.dll',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
    'BINARY'),
-  ('PySide6\\plugins\\platforms\\qminimal.dll',
+  ('PySide6\\plugins\\platforms\\qoffscreen.dll',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qminimal.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\platforms\\qdirect2d.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qdirect2d.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\imageformats\\qgif.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qgif.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\imageformats\\qsvg.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qsvg.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\imageformats\\qicns.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qicns.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\platforms\\qwindows.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qwindows.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\imageformats\\qtiff.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qtiff.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\imageformats\\qwebp.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwebp.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
-   'BINARY'),
-  ('PySide6\\plugins\\iconengines\\qsvgicon.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\iconengines\\qsvgicon.dll',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qoffscreen.dll',
    'BINARY'),
   ('PySide6\\plugins\\imageformats\\qtga.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qtga.dll',
    'BINARY'),
-  ('PySide6\\plugins\\imageformats\\qjpeg.dll',
+  ('PySide6\\plugins\\imageformats\\qwebp.dll',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qjpeg.dll',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwebp.dll',
    'BINARY'),
-  ('PySide6\\plugins\\imageformats\\qwbmp.dll',
+  ('PySide6\\plugins\\imageformats\\qsvg.dll',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwbmp.dll',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qsvg.dll',
    'BINARY'),
   ('PySide6\\plugins\\imageformats\\qico.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qico.dll',
    'BINARY'),
+  ('PySide6\\plugins\\platforms\\qminimal.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qjpeg.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qgif.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qicns.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qwindows.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qwbmp.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qtiff.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\iconengines\\qsvgicon.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qdirect2d.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qdirect2d.dll',
+   'BINARY'),
   ('PySide6\\plugins\\imageformats\\qpdf.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qpdf.dll',
    'BINARY'),
-  ('PySide6\\plugins\\platforms\\qoffscreen.dll',
+  ('PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qoffscreen.dll',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
    'BINARY'),
   ('PySide6\\opengl32sw.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\opengl32sw.dll',
    'BINARY'),
-  ('PySide6\\plugins\\tls\\qcertonlybackend.dll',
+  ('PySide6\\plugins\\tls\\qschannelbackend.dll',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qcertonlybackend.dll',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qschannelbackend.dll',
    'BINARY'),
   ('PySide6\\plugins\\networkinformation\\qnetworklistmanager.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\networkinformation\\qnetworklistmanager.dll',
    'BINARY'),
-  ('PySide6\\plugins\\tls\\qschannelbackend.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qschannelbackend.dll',
-   'BINARY'),
   ('PySide6\\plugins\\tls\\qopensslbackend.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qopensslbackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qcertonlybackend.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qcertonlybackend.dll',
    'BINARY'),
   ('PySide6\\plugins\\styles\\qmodernwindowsstyle.dll',
    'E:\\Github\\Youtube '
@@ -5410,6 +5410,10 @@
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6Core.dll',
    'BINARY'),
+  ('PySide6\\Qt6Svg.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6Svg.dll',
+   'BINARY'),
   ('VCRUNTIME140_1.dll',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140_1.dll',
    'BINARY'),
@@ -5417,21 +5421,17 @@
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\shiboken6\\MSVCP140.dll',
    'BINARY'),
-  ('PySide6\\Qt6Svg.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6Svg.dll',
-   'BINARY'),
   ('PySide6\\Qt6Network.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6Network.dll',
    'BINARY'),
-  ('PySide6\\Qt6VirtualKeyboard.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6VirtualKeyboard.dll',
-   'BINARY'),
   ('PySide6\\Qt6Pdf.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6Pdf.dll',
+   'BINARY'),
+  ('PySide6\\Qt6VirtualKeyboard.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6VirtualKeyboard.dll',
    'BINARY'),
   ('PySide6\\Qt6Widgets.dll',
    'E:\\Github\\Youtube '
@@ -5449,18 +5449,6 @@
   ('sqlite3.dll',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\sqlite3.dll',
    'BINARY'),
-  ('PySide6\\pyside6.abi3.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\pyside6.abi3.dll',
-   'BINARY'),
-  ('PySide6\\VCRUNTIME140_1.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140_1.dll',
-   'BINARY'),
-  ('PySide6\\VCRUNTIME140.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140.dll',
-   'BINARY'),
   ('PySide6\\MSVCP140.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\MSVCP140.dll',
@@ -5469,44 +5457,56 @@
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\shiboken6\\shiboken6.abi3.dll',
    'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\python3.dll',
+   'BINARY'),
+  ('PySide6\\VCRUNTIME140_1.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PySide6\\pyside6.abi3.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\pyside6.abi3.dll',
+   'BINARY'),
   ('PySide6\\MSVCP140_2.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\MSVCP140_2.dll',
    'BINARY'),
-  ('python3.dll',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\python3.dll',
-   'BINARY'),
-  ('shiboken6\\VCRUNTIME140_1.dll',
+  ('PySide6\\VCRUNTIME140.dll',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\shiboken6\\VCRUNTIME140_1.dll',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140.dll',
    'BINARY'),
   ('shiboken6\\VCRUNTIME140.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\shiboken6\\VCRUNTIME140.dll',
    'BINARY'),
+  ('shiboken6\\VCRUNTIME140_1.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\shiboken6\\VCRUNTIME140_1.dll',
+   'BINARY'),
   ('PySide6\\MSVCP140_1.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\MSVCP140_1.dll',
-   'BINARY'),
-  ('PySide6\\Qt6Quick.dll',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6Quick.dll',
    'BINARY'),
   ('PySide6\\Qt6Qml.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6Qml.dll',
    'BINARY'),
-  ('PySide6\\Qt6OpenGL.dll',
+  ('PySide6\\Qt6Quick.dll',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6OpenGL.dll',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6Quick.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlModels.dll',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6QmlModels.dll',
    'BINARY'),
   ('PySide6\\Qt6QmlMeta.dll',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6QmlMeta.dll',
    'BINARY'),
-  ('PySide6\\Qt6QmlModels.dll',
+  ('PySide6\\Qt6OpenGL.dll',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6QmlModels.dll',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\Qt6OpenGL.dll',
    'BINARY'),
   ('PySide6\\Qt6QmlWorkerScript.dll',
    'E:\\Github\\Youtube '
@@ -5514,161 +5514,13 @@
    'BINARY')],
  [],
  [],
- [('PySide6\\translations\\qt_uk.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_uk.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_es.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_es.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_hr.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_hr.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_ca.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ca.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_he.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_he.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_hr.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hr.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_cs.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_cs.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_hu.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_hu.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_da.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_da.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_uk.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_uk.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_ca.qm',
+ [('PySide6\\translations\\qt_ca.qm',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ca.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_gl.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_gl.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_da.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_da.qm',
    'DATA'),
   ('PySide6\\translations\\qt_help_hr.qm',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_hr.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_tr.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_tr.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_it.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_it.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_es.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_es.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_gl.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_gl.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_sl.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sl.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_hu.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hu.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_bg.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_bg.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_ja.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ja.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_uk.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_uk.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_ru.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ru.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_it.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_it.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_cs.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_cs.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_zh_TW.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_zh_TW.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_nl.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_nl.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_ar.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ar.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_nn.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nn.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_pt_BR.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pt_BR.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_ka.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ka.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_zh_CN.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_CN.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_zh_TW.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_TW.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_lv.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_lv.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_es.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_es.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_nl.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nl.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_de.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_de.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_sk.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sk.qm',
    'DATA'),
   ('PySide6\\translations\\qtbase_sv.qm',
    'E:\\Github\\Youtube '
@@ -5678,259 +5530,443 @@
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_zh_CN.qm',
    'DATA'),
-  ('PySide6\\translations\\qt_fr.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fr.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_da.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_da.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_nn.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_nn.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_ja.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ja.qm',
-   'DATA'),
   ('PySide6\\translations\\qt_it.qm',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_it.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_ru.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ru.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_fi.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fi.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_ko.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ko.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_pl.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pl.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_ko.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ko.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_sk.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_sk.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_sk.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sk.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_nn.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nn.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_tr.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_tr.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_ka.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ka.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_pl.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pl.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_ca.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ca.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_pt_BR.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pt_BR.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_zh_CN.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_CN.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_ru.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ru.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_ko.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ko.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_lv.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lv.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_gd.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_gd.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_ar.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ar.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_fr.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fr.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_pl.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pl.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_de.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_de.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_sl.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sl.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_fa.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fa.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_he.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_he.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_lg.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_lg.qm',
    'DATA'),
   ('PySide6\\translations\\qt_help_bg.qm',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_bg.qm',
    'DATA'),
-  ('PySide6\\translations\\qt_pt_BR.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_BR.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_en.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_en.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_fr.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_fr.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_sv.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sv.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_en.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_en.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_hu.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_hu.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_ar.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ar.qm',
-   'DATA'),
   ('PySide6\\translations\\qtbase_de.qm',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_de.qm',
    'DATA'),
-  ('PySide6\\translations\\qt_help_zh_TW.qm',
+  ('PySide6\\translations\\qt_ru.qm',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_TW.qm',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ru.qm',
    'DATA'),
-  ('PySide6\\translations\\qt_help_ka.qm',
+  ('PySide6\\translations\\qt_help_pl.qm',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ka.qm',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pl.qm',
    'DATA'),
-  ('PySide6\\translations\\qt_help_nl.qm',
+  ('PySide6\\translations\\qt_help_pt_BR.qm',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nl.qm',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pt_BR.qm',
    'DATA'),
-  ('PySide6\\translations\\qt_bg.qm',
+  ('PySide6\\translations\\qt_gl.qm',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_bg.qm',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_gl.qm',
    'DATA'),
-  ('PySide6\\translations\\qt_help_sv.qm',
+  ('PySide6\\translations\\qtbase_ko.qm',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sv.qm',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ko.qm',
    'DATA'),
-  ('PySide6\\translations\\qt_lt.qm',
+  ('PySide6\\translations\\qtbase_gd.qm',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lt.qm',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_gd.qm',
    'DATA'),
-  ('PySide6\\translations\\qt_fa.qm',
+  ('PySide6\\translations\\qtbase_pl.qm',
    'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fa.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_gd.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_gd.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_lg.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lg.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_help_tr.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_tr.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_ja.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ja.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_cs.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_cs.qm',
-   'DATA'),
-  ('PySide6\\translations\\qtbase_en.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_en.qm',
-   'DATA'),
-  ('PySide6\\translations\\qt_pt_PT.qm',
-   'E:\\Github\\Youtube '
-   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_PT.qm',
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pl.qm',
    'DATA'),
   ('PySide6\\translations\\qt_fi.qm',
    'E:\\Github\\Youtube '
    'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fi.qm',
    'DATA'),
+  ('PySide6\\translations\\qtbase_tr.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ja.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_nl.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pt_PT.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_PT.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_zh_CN.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sk.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lg.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ja.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sv.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ar.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_bg.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_it.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_uk.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_cs.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_da.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_nn.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_lg.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_lg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pt_BR.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fa.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_lv.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ru.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ca.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_nl.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_de.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ka.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sl.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lt.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_en.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_he.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_he.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_sk.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_de.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_en.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_hr.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fr.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_zh_TW.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ko.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ka.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_es.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_zh_TW.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_es.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lv.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_da.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ja.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fr.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_cs.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pl.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_uk.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_zh_TW.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_gl.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_it.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_fr.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_nl.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_hu.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_hu.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ko.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ar.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fi.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_hr.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_nn.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sl.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_tr.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ar.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_zh_CN.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_nn.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ca.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_bg.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_cs.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fa.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_en.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_tr.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sv.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_es.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ka.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_hu.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_da.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_gd.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_he.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_pt_BR.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ru.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sk.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_uk.qm',
+   'E:\\Github\\Youtube '
+   'Downloader\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_uk.qm',
+   'DATA'),
   ('base_library.zip',
    'E:\\Github\\Youtube '
    'Downloader\\build\\youtube_downloader\\base_library.zip',
    'DATA')],
- [('sre_compile',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_compile.py',
+ [('locale',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\locale.py',
    'PYMODULE'),
-  ('weakref',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\weakref.py',
+  ('re._parser',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_parser.py',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\operator.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\genericpath.py',
    'PYMODULE'),
   ('traceback',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\traceback.py',
    'PYMODULE'),
-  ('codecs',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codecs.py',
+  ('enum',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\enum.py',
    'PYMODULE'),
-  ('types',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\types.py',
+  ('sre_constants',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_constants.py',
    'PYMODULE'),
-  ('heapq',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\heapq.py',
-   'PYMODULE'),
-  ('ntpath',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ntpath.py',
-   'PYMODULE'),
-  ('keyword',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\keyword.py',
+  ('sre_compile',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_compile.py',
    'PYMODULE'),
   ('io',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\io.py',
    'PYMODULE'),
-  ('genericpath',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\genericpath.py',
+  ('linecache',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\linecache.py',
+   'PYMODULE'),
+  ('keyword',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_parse.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\collections\\__init__.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\zlib_codec.py',
@@ -6298,69 +6334,33 @@
   ('encodings',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('reprlib',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\reprlib.py',
+  ('types',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\types.py',
    'PYMODULE'),
   ('posixpath',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\posixpath.py',
    'PYMODULE'),
-  ('copyreg',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copyreg.py',
-   'PYMODULE'),
-  ('abc',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\abc.py',
-   'PYMODULE'),
-  ('locale',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\locale.py',
-   'PYMODULE'),
-  ('re._parser',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_parser.py',
-   'PYMODULE'),
-  ('re._constants',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_constants.py',
-   'PYMODULE'),
-  ('re._compiler',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_compiler.py',
-   'PYMODULE'),
-  ('re._casefix',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_casefix.py',
-   'PYMODULE'),
-  ('re',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\__init__.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\os.py',
-   'PYMODULE'),
-  ('stat',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stat.py',
-   'PYMODULE'),
-  ('functools',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\functools.py',
-   'PYMODULE'),
   ('_collections_abc',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_collections_abc.py',
-   'PYMODULE'),
-  ('sre_constants',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('linecache',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\linecache.py',
-   'PYMODULE'),
-  ('collections',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\collections\\__init__.py',
    'PYMODULE'),
   ('warnings',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\warnings.py',
    'PYMODULE'),
+  ('abc',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\abc.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stat.py',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codecs.py',
+   'PYMODULE'),
   ('_weakrefset',
    'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_weakrefset.py',
    'PYMODULE'),
-  ('operator',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\operator.py',
+  ('os',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\os.py',
    'PYMODULE'),
-  ('enum',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\enum.py',
-   'PYMODULE'),
-  ('sre_parse',
-   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_parse.py',
+  ('functools',
+   'C:\\Users\\Aryan\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\functools.py',
    'PYMODULE')])

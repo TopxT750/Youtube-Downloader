@@ -6,8 +6,8 @@ from utils.ffmpeg import ensure_ffmpeg
 
 
 def main() -> int:
-    QCoreApplication.setOrganizationName("YoutubeDownloader")
-    QCoreApplication.setApplicationName("YoutubeDownloader")
+    QCoreApplication.setOrganizationName("YT-DLP Studio")
+    QCoreApplication.setApplicationName("YT-DLP Studio")
 
     app = QApplication(sys.argv)
     # Warm up ffmpeg (non-blocking UI creation still happens)

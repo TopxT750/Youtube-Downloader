@@ -26,7 +26,7 @@ from utils.aria2 import ensure_aria2c
 class MainWindow(QMainWindow):
     def __init__(self) -> None:
         super().__init__()
-        self.setWindowTitle("Youtube Downloader (yt-dlp)")
+        self.setWindowTitle("YT-DLP Studio")
         self.resize(1000, 700)
 
         self.settings = AppSettings.load()
@@ -49,6 +49,11 @@ class MainWindow(QMainWindow):
         self.download_settings_action = QAction("Download Settings…", self)
         self.download_settings_action.triggered.connect(self._on_open_download_settings)
         settings_menu.addAction(self.download_settings_action)
+
+        help_menu = menubar.addMenu("Help")
+        about_action = QAction("About", self)
+        about_action.triggered.connect(self._on_about)
+        help_menu.addAction(about_action)
 
     def _build_ui(self) -> None:
         central = QWidget(self)
@@ -225,6 +230,17 @@ class MainWindow(QMainWindow):
         ok_btn.clicked.connect(_accept)
 
         dlg.exec()
+
+    def _on_about(self) -> None:
+        from PySide6.QtWidgets import QMessageBox
+        version = "1.0.0"
+        text = (
+            "YT-DLP Studio\n\n"
+            f"Version: {version}\n"
+            "Author: Aryan (and contributors)\n"
+            "Special thanks: yt-dlp, FFmpeg, aria2c, PySide6."
+        )
+        QMessageBox.about(self, "About", text)
 
     def _on_browse(self) -> None:
         path = QFileDialog.getExistingDirectory(self, "Select output directory")

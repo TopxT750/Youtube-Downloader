@@ -28,6 +28,20 @@ print("Fetched ffmpeg/aria2c")
   $pythonCode | .\.venv\Scripts\python.exe -
 }
 
+# Convert PNG icon to ICO for PyInstaller
+$iconPng = Join-Path (Get-Location) 'icon_transparent.png'
+$iconIco = Join-Path (Get-Location) 'app.ico'
+if (Test-Path $iconPng) {
+  $py = @'
+from PIL import Image
+import sys
+png, ico = sys.argv[1], sys.argv[2]
+img = Image.open(png).convert("RGBA")
+img.save(ico, sizes=[(256,256),(128,128),(64,64),(32,32),(16,16)])
+'@
+  $py | .\.venv\Scripts\python.exe - $iconPng $iconIco
+}
+
 .\.venv\Scripts\pyinstaller.exe --noconfirm youtube_downloader.spec
 
 Pop-Location
