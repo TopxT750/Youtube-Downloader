@@ -243,18 +243,13 @@ class MainWindow(QMainWindow):
             self.table.insertRow(row)
             self.table.setItem(row, 0, QTableWidgetItem(url))
             self.table.setItem(row, 1, QTableWidgetItem(""))
-            # Progress cell: bar + percent label aligned
-            cell = QWidget()
-            h = QHBoxLayout(cell)
-            h.setContentsMargins(6, 2, 6, 2)
+            # Progress cell: single bar with centered percent text
             bar = QProgressBar()
             bar.setRange(0, 100)
             bar.setValue(0)
-            pct = QLabel("0%")
-            pct.setAlignment(Qt.AlignRight | Qt.AlignVCenter)
-            h.addWidget(bar, 3)
-            h.addWidget(pct, 1)
-            self.table.setCellWidget(row, 2, cell)
+            bar.setTextVisible(True)
+            bar.setFormat("0%")
+            self.table.setCellWidget(row, 2, bar)
             self.table.setItem(row, 3, QTableWidgetItem("-"))
             self.table.setItem(row, 4, QTableWidgetItem("-"))
             self.table.setItem(row, 5, QTableWidgetItem("Queued"))
@@ -302,13 +297,10 @@ class MainWindow(QMainWindow):
 
     def _on_progress(self, row: int, percent: int, speed: str, eta: str, status: str) -> None:
         widget = self.table.cellWidget(row, 2)
-        if isinstance(widget, QWidget):
-            bar = widget.findChild(QProgressBar)
-            label = widget.findChild(QLabel)
-            if isinstance(bar, QProgressBar):
-                bar.setValue(max(0, min(100, percent)))
-            if isinstance(label, QLabel):
-                label.setText(f"{max(0, min(100, percent))}%")
+        if isinstance(widget, QProgressBar):
+            clamped = max(0, min(100, percent))
+            widget.setValue(clamped)
+            widget.setFormat(f"{clamped}%")
         self.table.setItem(row, 3, QTableWidgetItem(speed or "-"))
         self.table.setItem(row, 4, QTableWidgetItem(eta or "-"))
         self.table.setItem(row, 5, QTableWidgetItem(status or "Downloading"))
@@ -345,10 +337,8 @@ class MainWindow(QMainWindow):
         percents = []
         for row in range(total):
             widget = self.table.cellWidget(row, 2)
-            if isinstance(widget, QWidget):
-                bar = widget.findChild(QProgressBar)
-                if isinstance(bar, QProgressBar):
-                    percents.append(bar.value())
+            if isinstance(widget, QProgressBar):
+                percents.append(widget.value())
             else:
                 percents.append(0)
         overall = int(sum(percents) / max(1, len(percents)))
